@@ -1,16 +1,5 @@
-# 📬 Mail App UI
+# 🏎️ BoxBox F1 Strategy Commander Game
 
-This is the frontend UI for the Mail Assistant desktop application — a privacy-first, intelligent email client that helps you identify and respond to important emails instantly.
+This is the frontend for **BoxBox**, a game where users make strategy decisions in real F1 race scenarios — without knowing the driver or event until the end.
 
-Built using:
-- 🔹 SvelteKit for modern reactive UI
-- 🎨 TailwindCSS for clean and customizable styling
-- 🧠 Connected to a local backend (Tauri) for offline functionality, email sync, and AI classification
-
-This app is intended to be embedded in a Tauri desktop environment, but can also be run standalone for development.
-
-## 🚀 Getting Started
-
-```bash
-pnpm install
-pnpm dev
+Players go through 5 curated scenarios per race and are scored based on how their decisions improve or worsen real outcomes. The top managers appear on a global leaderboard each day.
